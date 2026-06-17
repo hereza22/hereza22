@@ -1,16 +1,40 @@
-## Hi there 👋
+## 💻 Software Skills
 
-<!--
-**hereza22/hereza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- Java
+- SQL
 
-Here are some ideas to get you started:
+### Frontend
+- React
+- React Native
+- Expo
+- HTML5
+- CSS3
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Node.js
+- Express.js
+- Firebase
+- Supabase
+- REST APIs
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Tools
+- Git & GitHub
+- VS Code
+- Android Studio
+- Docker
+- Figma
+
+### Cloud
+- Firebase
+- Vercel
+- Netlify

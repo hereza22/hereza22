@@ -56,9 +56,9 @@
 
 <a href="https://freshcartdev.page.gd">CART APP dev prototype</a>
 
-<a href="https://booth.page.gd/"> CAFE </a> 
+<a href="https://booth.page.gd/"> THE HUB </a> 
 
-
+<a href="https://ijurucafe.page.gd/"> CAFE </a> 
 
 
 

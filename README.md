@@ -1,4 +1,4 @@
-## 💻 Software Skills
+##  Software Skills
 
 ### Languages
 - JavaScript
@@ -34,12 +34,13 @@
 - Android Studio
 - Docker
 - Figma
+- Linux
+  
 
 ### Cloud
 - Firebase
 - Vercel
 - Netlify
-
 
 
 

@@ -6,6 +6,7 @@
 - Python
 - Java
 - SQL
+- Dart
 
 ### Frontend
 - React

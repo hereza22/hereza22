@@ -40,8 +40,17 @@
 - Vercel
 - Netlify
 
+
+
 ## 🚀 Technologies I Use
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nodejs,python,postgres,firebase,git,github,vscode" />
 </p>
+
+
+
+### MY PROJECTS
+
+<a href="https://freshcart.page.gd">CART APP prototype</a>
+
